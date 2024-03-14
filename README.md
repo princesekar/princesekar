@@ -57,5 +57,5 @@
 </p>
 </div>
 
-<h3 align="left">Github Trophy:</h3>
+<h3 align="center">A passionate Angular developer from India</h3>
 <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princesekar" alt="princesekar" /></a> </p>
