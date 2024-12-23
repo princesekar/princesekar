@@ -11,7 +11,7 @@
 
 
 
-- 🔭 I’m currently working on [PG INTSYS](https://pgintsys.com)
+- 🔭 I’m currently working on [Blackstone Shipping](https://blackstoneshipping.com)
 
 - 🌱 I’m currently learning **Angular, .net core**
 
